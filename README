@@ -1,0 +1,9 @@
+On Linux: 
+	You will have to have installed the following opengl libraries: GL glut GLU IL GLEW
+	When I will have time I will post a compleate apt-get prerequisities list for Ubuntu
+
+	first just compile it:
+	$ make
+
+	and then run it by (you might need to set the right permissions):
+	$ ./uzd3
